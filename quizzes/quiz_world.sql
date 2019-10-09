@@ -3,7 +3,7 @@
 	SELECT name
 	FROM world
 	WHERE name LIKE 'U%'
-	
+
 2. Select the code which shows just the population of United Kingdom?
 
 	SELECT population
@@ -29,4 +29,7 @@
 	SELECT name FROM world
 	WHERE name IN ('Cuba', 'Togo')
 
-7.
+7. Select the result that would be obtained from this code:
+
+	Brazil
+	Colombia
